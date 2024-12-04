@@ -1,0 +1,5 @@
+redis-6.0.10/
+dist/
+node_modules/
+
+redis-6.0.10.tar.gz
